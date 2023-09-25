@@ -26,8 +26,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - SQL
 
-Essas tecnologias foram combinadas para criar uma aplicação web interativa e informativa sobre o Sistema Solar e missões espaciais.
-
 ## Contato
 
 - [Pedro Henrique] - [pedrohalmeidamendonca@gmail.com]
